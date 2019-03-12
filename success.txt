@@ -1,0 +1,37 @@
+
+# How To Markdown
+
+## HEADINGS (Exercise 2 of 12)
+
+ Here's the official solution in case you want to compare notes:
+
+─────────────────────────────────────────────────────────────────────────────
+
+# Markdown is awesome!
+
+─────────────────────────────────────────────────────────────────────────────
+ ```plain
+
+# Markdown is awesome!
+
+ ```
+
+# Success!
+
+ There's nothing strange, right? Everything is obvious.
+
+ In all of the next exercises you will have to add headings with the name
+ of the current exercise.
+
+ In the next exercise we will take a look at emphasis in Markdown.
+
+ You have 10 challenges left.
+
+ Type 'how-to-markdown' to show the menu.
+
+
+  » To print these instructions again, run: how-to-markdown print
+  » To execute your program, run: how-to-markdown run file.md
+  » To verify your program, run: how-to-markdown verify file.md
+  » For help run: how-to-markdown help
+
